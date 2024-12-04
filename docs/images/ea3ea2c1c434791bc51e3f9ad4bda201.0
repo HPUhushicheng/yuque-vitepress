@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>网页无法访问</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/Error/404/error_all.css?t=201303212934">
+</head>
+<body class="error-404">
+    <div id="doc_main">
+
+        <section class="bd clearfix">
+            <div class="module-error">
+                <div class="error-main clearfix">
+                    <div class="label"></div>
+                    <div class="info">
+                        <h3 class="title">啊哦，你所访问的页面不存在了。</h3>
+                        <div class="reason">
+                            <p>可能的原因：</p>
+                            <p>1.在地址栏中输入了错误的地址。</p>
+                            <p>2.你点击的某个链接已过期。</p>
+                        </div>
+                        <div class="oper">
+                            <p><a href="https://www.soujianzhu.cn/Index.aspx">回到网站首页&gt;</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+         
+    </div>
+<div style="text-align:center;padding:30px 0;font-size:16px;margin:0 auto"><a href="https://www.soujianzhu.cn/NormAndRules/NormContent.aspx?id=323">最新《建筑设计防火规范》GB 50016—2014 （2018年版）</a></div>
+
+<div style="text-align:center;margin-top:30px;">
+搜建筑栏目：
+    <a href="https://www.soujianzhu.cn/Index.aspx">首页</a><span style="margin:0 5px;">|</span>
+    <a href="https://www.soujianzhu.cn/NewProject/ProjectList.aspx">项目</a><span style="margin:0 5px;">|</span>
+    <a href="https://www.soujianzhu.cn/NewsCenter/Default.aspx">建筑新闻</a><span style="margin:0 5px;">|</span>
+<a href="https://www.soujianzhu.cn/ArchDatas/xinanli.aspx">海量资料</a><span style="margin:0 5px;">|</span>
+<a href="https://www.soujianzhu.cn/NormAndRules/Default.aspx">建筑规范</a><span style="margin:0 5px;">|</span>
+<a href="https://www.soujianzhu.cn/NormAndRules/RulesDefault.aspx">地方条例</a><span style="margin:0 5px;">|</span>
+    <a href="https://www.soujianzhu.cn/jobs/default.aspx">找工作</a><span style="margin:0 5px;">|</span>
+    <a href="https://www.soujianzhu.cn/Company/Default.aspx">优秀品牌</a><span style="margin:0 5px;">|</span>
+<a href="https://www.soujianzhu.cn/Course/Default.aspx">建筑大讲堂</a>
+</div>
+
+</body>
+</html>

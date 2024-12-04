@@ -1,0 +1,20 @@
+<svg width="88.4" height="20" viewBox="0 0 884 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="commits: 216">
+  <title>commits: 216</title>
+  <linearGradient id="SnkwH" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="KkzKZ"><rect width="884" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#KkzKZ)">
+    <rect width="574" height="200" fill="#555"/>
+    <rect width="310" height="200" fill="#08C" x="574"/>
+    <rect width="884" height="200" fill="url(#SnkwH)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="474" fill="#000" opacity="0.25">commits</text>
+    <text x="50" y="138" textLength="474">commits</text>
+    <text x="629" y="148" textLength="210" fill="#000" opacity="0.25">216</text>
+    <text x="619" y="138" textLength="210">216</text>
+  </g>
+  
+</svg>
